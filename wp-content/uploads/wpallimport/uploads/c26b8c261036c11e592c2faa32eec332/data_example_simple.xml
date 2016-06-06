@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<producttitle><![CDATA[Soflyy T-Shirt]]></producttitle>
+		<sku><![CDATA[999-X]]></sku>
+		<parentsku><![CDATA[]]></parentsku>
+		<price><![CDATA[]]></price>
+		<description><![CDATA[This shirt is awesome.]]></description>
+	</node>
+	<node>
+		<producttitle><![CDATA[Soflyy T-Shirt (blue)]]></producttitle>
+		<sku><![CDATA[999-B]]></sku>
+		<parentsku><![CDATA[999-X]]></parentsku>
+		<price><![CDATA[15]]></price>
+		<description><![CDATA[]]></description>
+	</node>
+	<node>
+		<producttitle><![CDATA[Soflyy T-Shirt (red)]]></producttitle>
+		<sku><![CDATA[999-C]]></sku>
+		<parentsku><![CDATA[999-X]]></parentsku>
+		<price><![CDATA[15]]></price>
+		<description><![CDATA[]]></description>
+	</node>
+	<node>
+		<producttitle><![CDATA[Soflyy Mug]]></producttitle>
+		<sku><![CDATA[777-X]]></sku>
+		<parentsku><![CDATA[]]></parentsku>
+		<price><![CDATA[]]></price>
+		<description><![CDATA[This mug is awesome.]]></description>
+	</node>
+	<node>
+		<producttitle><![CDATA[Soflyy Mug]]></producttitle>
+		<sku><![CDATA[777-O]]></sku>
+		<parentsku><![CDATA[777-X]]></parentsku>
+		<price><![CDATA[9]]></price>
+		<description><![CDATA[]]></description>
+	</node>
+	<node>
+		<producttitle><![CDATA[Soflyy Mug]]></producttitle>
+		<sku><![CDATA[777-Y]]></sku>
+		<parentsku><![CDATA[777-X]]></parentsku>
+		<price><![CDATA[9]]></price>
+		<description><![CDATA[]]></description>
+	</node>
+</data>

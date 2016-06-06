@@ -1,0 +1,336 @@
+
+
+
+
+
+    body{
+    	    	    	    	    }
+            body,
+		.wrapper,
+        .content,
+        .full_width,
+        .overlapping_content .content > .container,
+		.more_facts_holder,
+		.comment_holder .comment #respond textarea,
+		.comment_holder .comment #respond input[type='text'],
+		.content .container
+		{
+        	background-color:#ffffff;
+        }
+		.angled-section polygon{
+			fill: #ffffff;
+		}
+    
+
+
+
+
+
+
+
+
+
+
+
+						.content{
+				margin-top: -100px;
+			}
+				
+	
+
+
+    header.sticky .header_bottom,
+    header.fixed.scrolled .header_bottom,
+    header.fixed_hiding.scrolled .header_bottom{
+    box-shadow: none;
+    -webkit-box-shadow: none;
+	box-shadow: none;
+    }
+
+
+        header.fixed_hiding .q_logo a,
+        header.fixed_hiding .q_logo{
+            max-height: 26px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.title h1{
+	color: #ffffff; 					}
+
+	.title.title_size_medium h1{
+	font-size: 40px; 			}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.google_map{
+	height: 750px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .vertical_menu_float .menu-item .second{
+	left: calc(100% + 30px); /*because of the padding*/
+}
+
+.vertical_menu_hidden aside.vertical_menu_area .vertical_menu_float .menu-item .second {
+	left: calc(100% + 40px);
+}
+
+ 
+ 
+ 
+
+
+
+
+	.vertical_menu_area{
+		text-align:left;
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .portfolio_main_holder .item_holder.thin_plus_only .thin_plus_only_icon {
+        font-family:     }
+
+
+
+
+
+
+
+
+	.side_menu_button .search_covers_header,
+	.side_menu_button .search_slides_from_header_bottom,
+	.side_menu_button .fullscreen_search,
+	.side_menu_button .search_slides_from_window_top{
+		font-size: 17px !important;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media only screen and (min-width: 480px) and (max-width: 768px){
+        .q_slider .carousel, .qode_slider_preloader, .carousel-inner>.item{
+            height: 500px !important;
+        }
+    }
+
+    @media only screen and (max-width: 480px){
+        .q_slider .carousel, .qode_slider_preloader, .carousel-inner>.item{
+            height: 400px !important;
+        }
+    }
+
+    .carousel-inner .slider_content .text .qbutton:not(.white){ 
+        background-color: #3ea0d8 !important;border-color: #3ea0d8 !important;border-width: 5px 25px !important; 
+    }
+    .carousel-inner .slider_content .text .qbutton:not(.white):hover{ 
+        color: #ffffff !important;background-color: #3ea0d8 !important;border-color: #3ea0d8 !important; 
+    }
+
+
+
+
+
+
+
+    .woocommerce ul.products li.product .price,
+    .woocommerce ul.products li.product .price ins {
+        color: #7097cc !important    }
+
+	.woocommerce aside ul.product_list_widget li span.amount,
+	aside ul.product_list_widget li span.amount{
+		color: #7097cc !important;
+	}
+
+    .woocommerce li.product del, .woocommerce li.product del .amount {
+         font-size: 12px;color: #6491e5    }
+
+    .woocommerce .product .onsale:not(.out-of-stock-button), .woocommerce .product .single-onsale {
+        background-color: #4085ac    }
+
+
+
+
+
+    .woocommerce .product h1.product_title {
+    font-size: 20px    }
+
+    .woocommerce div.product .summary p.price,
+    .woocommerce div.product .summary p.price span.amount {
+    color: #000000;font-size: 19px    }
+
+    .woocommerce div.product .summary p.price del, .woocommerce div.product .summary p.price del span.amount {
+    font-size: 17px;color: #a3a3a3    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .masonry_gallery_item.square_big .masonry_gallery_item_inner .masonry_gallery_item_content{
+    text-align: center;    }
+
+
+    .masonry_gallery_item.square_small .masonry_gallery_item_inner .masonry_gallery_item_content{
+    text-align: center;    }
+
+
+    .masonry_gallery_item.rectangle_portrait .masonry_gallery_item_inner .masonry_gallery_item_content{
+    text-align: center;    }
+
+
+    .masonry_gallery_item.rectangle_landscape .masonry_gallery_item_inner .masonry_gallery_item_content{
+    text-align: center;    }
+
+
+
+
+
+
+

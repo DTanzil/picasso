@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<producttitle><![CDATA[Snoopy Sofa]]></producttitle>
+		<sku><![CDATA[999-SN]]></sku>
+		<productimage><![CDATA[http://picassohome.co.id/wp-content/uploads/2016/03/14022C.jpg, http://picassohome.co.id/wp-content/uploads/2016/03/14041.jpg]]></productimage>
+		<price><![CDATA[200000]]></price>
+		<saleprice><![CDATA[200000]]></saleprice>
+		<description><![CDATA[This snoopy sofa is awesome.]]></description>
+		<stock><![CDATA[75]]></stock>
+		<categories><![CDATA[Bedding | Furniture > Dining | Furniture > Living]]></categories>
+	</node>
+	<node>
+		<producttitle><![CDATA[Superman Sofa]]></producttitle>
+		<sku><![CDATA[999-SP]]></sku>
+		<productimage><![CDATA[http://picassohome.co.id/wp-content/uploads/2016/03/14041.jpg, http://picassohome.co.id/wp-content/uploads/2016/03/14022C.jpg]]></productimage>
+		<price><![CDATA[135000]]></price>
+		<saleprice><![CDATA[100000]]></saleprice>
+		<description><![CDATA[This superman sofa is awesome.]]></description>
+		<stock><![CDATA[234]]></stock>
+		<categories><![CDATA[Bedding | Furniture]]></categories>
+	</node>
+	<node>
+		<producttitle><![CDATA[Batman Sofa]]></producttitle>
+		<sku><![CDATA[999-BT]]></sku>
+		<productimage><![CDATA[http://picassohome.co.id/wp-content/uploads/2016/03/14022C.jpg]]></productimage>
+		<price><![CDATA[35000]]></price>
+		<saleprice><![CDATA[34000]]></saleprice>
+		<description><![CDATA[This batman sofa is awesome.]]></description>
+		<stock><![CDATA[350]]></stock>
+		<categories><![CDATA[Furniture > Living]]></categories>
+	</node>
+</data>

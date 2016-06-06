@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<producttitle><![CDATA[Snoopy Sofa]]></producttitle>
+		<sku><![CDATA[999-SN]]></sku>
+		<productimage><![CDATA[http://picassohome.co.id/wp-content/uploads/2016/03/14022C.jpg]]></productimage>
+		<price><![CDATA[200000]]></price>
+		<color><![CDATA[]]></color>
+		<description><![CDATA[This snoopy sofa is awesome.]]></description>
+	</node>
+	<node>
+		<producttitle><![CDATA[Superman Sofa]]></producttitle>
+		<sku><![CDATA[999-SP]]></sku>
+		<productimage><![CDATA[http://picassohome.co.id/wp-content/uploads/2016/03/14041.jpg]]></productimage>
+		<price><![CDATA[135000]]></price>
+		<color><![CDATA[blue]]></color>
+		<description><![CDATA[This superman sofa is awesome.]]></description>
+	</node>
+	<node>
+		<producttitle><![CDATA[Batman Sofa]]></producttitle>
+		<sku><![CDATA[999-BT]]></sku>
+		<productimage><![CDATA[http://picassohome.co.id/wp-content/uploads/2016/03/14022C.jpg]]></productimage>
+		<price><![CDATA[35000]]></price>
+		<color><![CDATA[red]]></color>
+		<description><![CDATA[This batman sofa is awesome.]]></description>
+	</node>
+</data>

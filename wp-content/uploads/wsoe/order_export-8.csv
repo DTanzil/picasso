@@ -1,0 +1,6 @@
+"Order ID","Customer Name","Order Date","Product Subtotal Price","Product Total Price","Product Subtotal Tax","Product Total Tax","Product SKU","Product Name","Product Quantity","Variation details","Order Amount","Customer Email","Phone Number","Order Status"
+487,"Nessa Tanzil","2016-02-23 16:13:44",400000,400000,40000,40000,"BLUE SKU","Blue Chair",1,,IDR 880.000,nessa@picasso.com,0892019893,On-hold
+487,"Nessa Tanzil","2016-02-23 16:13:44",400000,400000,40000,40000,,"Green Chair Again",1,,IDR 880.000,nessa@picasso.com,0892019893,On-hold
+475,"Nessa Tanzil","2016-02-22 14:10:00",400000,77777,40000,25000,"BLUE SKU","Blue Chair",1,,IDR 102.777,nessa@picasso.com,0892019893,On-hold
+474,"Nessa Tanzil","2016-02-22 14:06:16",800000,800000,0,0,,"Dining Chair 3",1,,IDR 800.000,nessa@picasso.com,0892019893,On-hold
+429,"Bobo Jumbo","2016-02-05 02:44:00",400000,400000,0,0,,"Amazing Chair 77",1,,IDR 400.000,obo@mail.com,2063493317,Processing
